@@ -8,5 +8,5 @@ Smooth Gameplay Mechanics: The player controls a constantly jumping character na
 
 **🧰 Tech Stack**
 **HTML5** Structuring the game layout and embedding the canvas element.
-**CSS3 **Styling the game container and ensuring responsiveness across devices. 
-**JavaScript (Vanilla) **Core game logic, animations, collision detection, and user input handling.
+**CSS3** Styling the game container and ensuring responsiveness across devices. 
+**JavaScript (Vanilla)** Core game logic, animations, collision detection, and user input handling.
