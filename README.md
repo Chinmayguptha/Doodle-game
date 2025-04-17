@@ -1,19 +1,21 @@
-# Doodle-game
+# JS-Final-Project-Doodle-Jump-
 
-This project is a full-fledged emulation of the iconic mobile game Doodle Jump, built using HTML5 Canvas and Vanilla JavaScript. Developed as part of an internship project, this version reimagines the addictive jumping mechanics and endless platform gameplay for both desktop and mobile browsers, with a focus on performance, responsiveness, and user experience.
+The project is the emulation of the famous mobile game 'Doodle Jump' . 
 
+Techniques and Tools used:
 
-**🎮 Features**
-**Smooth Gameplay Mechanics:** The player controls a constantly jumping character navigating through an infinite array of platforms by tilting the device (on mobile) or using keyboard controls (on desktop).
+1. HTML5 Canvas has for the development of UI.
+2. Vanilla Javascript for the interaction with UI.
+3. Accelerometer feature given by HTML5 to play the game in mobile phones.
+5. Implements the platform based gaming technique.
+6. Game loop for smooth rendering and update of the UI.
+7. Local Storage to store the highest score.
 
-**Dynamic Difficulty Progression:** As the player climbs higher, the game difficulty gradually increases by introducing: Faster scrolling speeds Moving platforms Randomized platform placement
+Features:
 
-**Interactive Obstacles & Enemies:** Includes moving obstacles that players must avoid while jumping. Collision detection and enemy interactions add an extra layer of challenge.
+1. Can be played in both mobile and pc.
+2. Different obstacles during the game play to make it difficult for the users to play.
+3. Different boosters to restore player health and regain the power.
+4. Increase in difficulty level with the increase in score.
 
-**Score Tracking:** Real-time score system that updates as the player ascends, encouraging replayability and personal high-score challenges.
-
-**🧰 Tech Stack**
-
-**HTML5** Structuring the game layout and embedding the canvas element.
-**CSS3** Styling the game container and ensuring responsiveness across devices. 
-**JavaScript (Vanilla)** Core game logic, animations, collision detection, and user input handling
+Experience the game with the given link: https://krishuthapa.github.io/JS-Final-Project-Doodle-Jump-/
