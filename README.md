@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/61bdfe71-da15-4d26-af4e-bfc8e568dac6
+
+
+
+https://github.com/user-attachments/assets/db74add6-c8d6-4780-aa48-138a96b9b9ea
+
 This project is a full-fledged emulation of the iconic mobile game Doodle Jump, built using HTML5 Canvas and Vanilla JavaScript. Developed as part of an internship project, this version reimagines the addictive jumping mechanics and endless platform gameplay for both desktop and mobile browsers, with a focus on performance, responsiveness, and user experience.
 
 
